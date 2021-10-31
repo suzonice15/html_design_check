@@ -6,7 +6,7 @@
 /*added*/
 .tree {
   white-space: nowrap;
-  overflow: auto;  
+  overflow: hidden;  
 }
 .tree ul {
   padding-top: 20px;
